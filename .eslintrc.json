@@ -9,6 +9,8 @@
         "sourceType": "module"
     },
     "rules": {
-        "no-console": "off"
+        "no-console": "off",
+        "semi": "off",
+        "no-undef": "off"
     }
 }
